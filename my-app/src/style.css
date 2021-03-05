@@ -1,0 +1,23 @@
+topbar {
+  box-shadow: none;
+  border: none;
+  background-color: #f5f5f5;
+  font-size: 12px
+}
+
+body {
+
+  background-size: cover;
+  padding-top: 20px;
+}
+
+.ui.menu .item {
+  color: black;
+}
+
+.bar-text {
+  color: black;
+}
+
+
+
